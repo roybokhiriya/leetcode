@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roybokhiriya/leetcode/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/roybokhiriya/leetcode/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/roybokhiriya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/roybokhiriya/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/roybokhiriya/leetcode/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/roybokhiriya/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
