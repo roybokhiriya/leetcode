@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/roybokhiriya/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/roybokhiriya/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/roybokhiriya/leetcode/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/roybokhiriya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roybokhiriya/leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/roybokhiriya/leetcode/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/roybokhiriya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/roybokhiriya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/roybokhiriya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/roybokhiriya/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/roybokhiriya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
