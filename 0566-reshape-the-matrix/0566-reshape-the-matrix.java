@@ -3,7 +3,6 @@ class Solution {
         int row = mat.length;
         int col = mat[0].length;
 
-        // Check if reshape is possible
         if (row * col != r * c) {
             return mat;
         }
@@ -15,7 +14,7 @@ class Solution {
             for (int j = 0; j < col; j++) {
                 ans[x][y] = mat[i][j];
                 y++;
-                if (y == c) { // Fix: Check if y has reached the number of columns in the reshaped matrix
+                if (y == c) { 
                     y = 0;
                     x++;
                 }
