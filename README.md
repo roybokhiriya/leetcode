@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/roybokhiriya/leetcode/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/roybokhiriya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/roybokhiriya/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/roybokhiriya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0898-transpose-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/roybokhiriya/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/roybokhiriya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0898-transpose-matrix) |
