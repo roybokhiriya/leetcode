@@ -1,34 +1,25 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length, n = matrix[0].length;
-        boolean rowZero = false, colZero = false;
+        int row = matrix.length;
+        int col = matrix[0].length;
+        int[][] ans = new int[row][col];
 
-        for (int j = 0; j < n; j++)
-            if (matrix[0][j] == 0) rowZero = true;
+        // Copy original matrix
+        for (int i = 0; i < row; i++)
+            for (int j = 0; j < col; j++)
+                ans[i][j] = matrix[i][j];
 
-        for (int i = 0; i < m; i++)
-            if (matrix[i][0] == 0) colZero = true;
-
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
+        // Mark zeros in ans
+        for (int i = 0; i < row; i++)
+            for (int j = 0; j < col; j++)
                 if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+                    for (int c = 0; c < col; c++) ans[i][c] = 0;
+                    for (int r = 0; r < row; r++) ans[r][j] = 0;
                 }
-            }
-        }
 
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0)
-                    matrix[i][j] = 0;
-            }
-        }
-
-        if (rowZero)
-            for (int j = 0; j < n; j++) matrix[0][j] = 0;
-
-        if (colZero)
-            for (int i = 0; i < m; i++) matrix[i][0] = 0;
+        // Copy back to original matrix
+        for (int i = 0; i < row; i++)
+            for (int j = 0; j < col; j++)
+                matrix[i][j] = ans[i][j];
     }
 }
