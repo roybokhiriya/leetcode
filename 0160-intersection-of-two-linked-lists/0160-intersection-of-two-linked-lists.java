@@ -14,14 +14,14 @@ public class Solution {
         if (headA == null || headB == null)
             return null;
 
-        ListNode a = headA;
-        ListNode b = headB;
+        ListNode p1 = headA;
+        ListNode p2 = headB;
 
-        while (a != b) {
-            a = (a == null) ? headB : a.next;
-            b = (b == null) ? headA : b.next;
+        while (p1 != p2) {
+            p1 = (p1 == null) ? headB : p1.next;
+            p2 = (p2 == null) ? headA : p2.next;
         }
 
-        return a;
+        return p1;
     }
 }
