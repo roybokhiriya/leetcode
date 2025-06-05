@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/roybokhiriya/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/roybokhiriya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/roybokhiriya/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/roybokhiriya/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/roybokhiriya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/roybokhiriya/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/roybokhiriya/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/roybokhiriya/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/roybokhiriya/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/roybokhiriya/leetcode/tree/master/0020-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/roybokhiriya/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/roybokhiriya/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/roybokhiriya/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
